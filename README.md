@@ -15,7 +15,6 @@ a list of responsibilities and tasks I carried out while working under the commu
   <p>Cable management.</p><br/>
   <p>Learning about various software tools used within the IT Department.</p><br/>
 
-<h2 align=center>Miscellaneous:</h2>
     
 
 
